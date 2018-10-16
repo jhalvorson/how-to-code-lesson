@@ -1,3 +1,3 @@
-# Meet The Team
+# How to code lesson
 
-Code your own profile for the Amiqus blog 🎉
+An intro to coding for the entire team at Amiqus' next All The Things.
