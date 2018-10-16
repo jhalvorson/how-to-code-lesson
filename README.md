@@ -1,2 +1,3 @@
-# how-to-code-lesson
-Created with CodeSandbox
+# Meet The Team
+
+Code your own profile for the Amiqus blog 🎉
