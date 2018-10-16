@@ -49,6 +49,12 @@ export default {
           avatar: {
             url: '',
           }
+        },
+        {
+          name: 'Rachel Smiths',
+          avatar: {
+            url: '',
+          }
         }
      ]
     }

@@ -7,7 +7,7 @@
         <li><router-link to="/our-team">Team</router-link></li>
       </ul>
     </nav>
-    <router-link class="instructions-link" to="/Instructions">Instructions</router-link>
+    <router-link class="instructions-link" to="/instructions">Instructions</router-link>
   </header>
 </template>
 
@@ -40,7 +40,7 @@ export default {
   }
 
   .instructions-link {
-    background-color: #D9ECFA;
+    background-color: #D9ECFA; // #D9ECFA is a hex value for a colour, try changing this to "blue"
     color: #ADBCCA;
     border-radius: 20px;
     position: absolute;

@@ -3,9 +3,9 @@
     In a real application such as AQID we would have a lot to consider
     when building a component such as accessibility, document structure etc.
     Here we don't mind about structure so stick to using the following elements:
-    - <div>
-    - <img />
-    - <p>
+    - <div> this is the wrapper for your profile
+    - <img /> this displays an image
+    - <p> this displays paragraph text
   -->
   <div>
     <!-- 
